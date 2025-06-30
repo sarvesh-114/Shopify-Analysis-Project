@@ -47,12 +47,11 @@ Plotted patterns like:
 - Payment gateway usage 💳
 
 ### 4. **MySQL Integration**
-- Exported the cleaned data to a `.csv`
+- Import DataFrame From python into MySQL
 - Created a structured MySQL schema
-- Imported the data into MySQL for SQL analysis
+- Used data into MySQL for SQL analysis
 
 ### 5. **Power BI Dashboard**
-Hooked up the MySQL data to Power BI to:
 - Build interactive visuals and KPIs
 - Slice and dice by Province, gateway, etc.
 - Create visuals like bar charts, maps, pie charts, and revenue trend lines
